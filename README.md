@@ -27,5 +27,5 @@ E-mail: yanmeng@sibs.ac.cn
 
 ## Citation
 
-Please cite us: XXXX
+Please cite us: Li Q#, Lu J#, Yin X#, Chang Y#, Wang C#, Yan M#, Feng L, Cheng Y, Gao Y, Xu B, Zhang Y, Wang Y, Cui G, Xu L, Sun Y, Zeng R, Li Y, Jing N, Xu GL*, Wu L*, Tang F* & Li J*. Base editing-mediated one-step inactivation of the Dnmt gene family reveals critical roles of DNA methylation during mouse gastrulation. Nat Commun 2023, 14(1): 2922. https://doi.org/10.1038/s41467-023-38528-z
 
